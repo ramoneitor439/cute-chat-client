@@ -1,0 +1,46 @@
+{
+    "title": {
+        "en": "Create Account",
+        "es": "Crear cuenta"
+    },
+    "name": {
+        "en": "Name",
+        "es": "Nombre"
+    },
+    "middleName": {
+        "en": "Middle Name",
+        "es": "Segundo nombre"
+    },
+    "lastName": {
+        "en": "Last Name",
+        "es": "Apellido"
+    },
+    "email": {
+        "en": "Email",
+        "es": "Correo electrónico"
+    },
+    "phone": {
+        "en": "Phone",
+        "es": "Teléfono"
+    },
+    "password": {
+        "en": "Password",
+        "es": "Contraseña"
+    },
+    "passwordRepeat": {
+        "en": "Repeat Password",
+        "es": "Repetir contraseña"
+    },
+    "createAccount": {
+        "en": "Create Account",
+        "es": "Crear cuenta"
+    },
+    "terms": {
+        "en": "I agree to the Terms of Service and Privacy Policy",
+        "es": "Acepto los Términos de Servicio y la Política de Privacidad"
+    },
+    "alreadyHaveAccount": {
+        "en": "Already have an account? Log in",
+        "es": "¿Ya tienes una cuenta? Inicia sesión"
+    }
+}
